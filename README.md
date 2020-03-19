@@ -22,4 +22,8 @@ name
 description
 SKU 
 
+To dos:
+change to cart and cart items?
+build out crud functionality
+
 
